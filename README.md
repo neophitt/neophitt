@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm selunik ! 👨‍💻
+# 👋 Hi there, I'm neophit ! 👨‍💻
 ## 🌟 Systems Administrator | Developer | Hoster 🚀
 
 </div>
@@ -9,7 +9,7 @@
                             
 <div id="header" align="center">
 	<div id="badges">
-		<a href="https://discord.gg/Se3HN4pJW8">
+		<a href="https://discord.egoria.xyz">
 			<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=black&labelColor=yellow&color=006afe" alt="Discord Badge"/>
 		</a>
 	</div>
@@ -18,7 +18,7 @@
 
 ### <b>📖 About Me</b>
 
-- 🎓 19 year old Systems Administrator passionate about technology and open-source.
+- 🎓 21 year old Systems Administrator passionate about technology and open-source.
 - 💻 Skilled in network management with Netgear, D-Link, TP-Link, and Cisco devices.
 - 🖥️ Proficient in Linux, and Windows systems.
 - 📜 Experienced in scripting with Bash.
@@ -65,10 +65,10 @@
 <h3><b>📊 GitHub Stats</b></h3>
 
 <p align="center">
-<a href="https://github.com/selunik">
-  <img src="https://github-readme-stats.vercel.app/api?username=selunik&rank_icon=github&theme=transparent"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selunik&theme=transparent&utcOffset=1"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selunik&theme=transparent"/>
+<a href="https://github.com/neophitt">
+  <img src="https://github-readme-stats.vercel.app/api?username=neophitt&rank_icon=github&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neophitt&theme=transparent&utcOffset=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neophitt&theme=transparent"/>
 </a>
 </p>
 
