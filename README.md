@@ -23,11 +23,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cisco" height="40" alt="cisco" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="cisco" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cisco" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp" />
 </div>
 
 ###
