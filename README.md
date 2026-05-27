@@ -22,7 +22,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cisco" height="40" alt="cisco" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="cisco" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cisco" />
 </div>
 
 ###
@@ -39,7 +44,7 @@
 <h3 align="left">🚀 My socials</h3>
 <p align="left">
 - <a href="https://discord.selucommunity.fr">My discord</a> - A community about IT, gaming, meet and more...<br>
-- <a href="https://www.selucommunity.fr">FeudalKings</a> - Watch all my projects!<br>
+- <a href="https://www.selucommunity.fr">My website</a> - Watch all my projects!<br>
 - <a href="https://draxbot.selucommunity.fr">DraxBot</a> - A free alternative to draftbot.<br/>
 </p>
 
