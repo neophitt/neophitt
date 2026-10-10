@@ -41,9 +41,8 @@
 
 <h3 align="left">🚀 My socials</h3>
 <p align="left">
-- <a href="https://discord.selucommunity.fr">My discord</a> - A community about IT, gaming, meet and more...<br>
-- <a href="https://www.selucommunity.fr">My website</a> - Watch all my projects!<br>
-- <a href="https://draxbot.selucommunity.fr">DraxBot</a> - A free alternative to draftbot.<br/>
+- <a href="https://discord.gg/kgqjFZwuTq">My discord</a> - A community about IT, gaming, meet and more...<br>
+- <a href="https://neophitt.netlify.app">My website</a> - Watch all my projects!<br>
 </p>
 
 ###
