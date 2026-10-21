@@ -7,9 +7,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
   <img width="12" />
@@ -17,15 +17,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
 </div>
 
 ###
