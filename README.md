@@ -41,7 +41,7 @@
 
 <h3 align="left">🚀 My socials</h3>
 <p align="left">
-- <a href="https://discord.gg/kgqjFZwuTq">My discord</a> - A community about IT, gaming, meet and more...<br>
+- <a href="https://discord.gg/3GPUQhtWnp">My discord</a> - A Minecraft server project<br>
 - <a href="https://neophitt.netlify.app">My website</a> - Watch all my projects!<br>
 </p>
 
